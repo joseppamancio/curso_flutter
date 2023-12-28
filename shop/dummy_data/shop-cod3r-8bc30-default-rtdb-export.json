@@ -1,0 +1,144 @@
+{
+  "orders": {
+    "kDmVQfZ7ABM74npZ9Kuwona71sL2": {
+      "-NmlMqxoPgnl9VA3nU18": {
+        "date": "2023-12-28T14:01:10.558437",
+        "products": [
+          {
+            "id": "0.24588202177683216",
+            "name": "Case Redmi Note 8",
+            "price": 50.59,
+            "productId": "-NmlIUIEfZNB-Quba2Sk",
+            "quantity": 1
+          },
+          {
+            "id": "0.8298274623692954",
+            "name": "Redmi Note 12 Pro",
+            "price": 3403.99,
+            "productId": "-NmlI29dyFe_ZyrZX-NO",
+            "quantity": 1
+          },
+          {
+            "id": "0.3071380360974534",
+            "name": "MiBand 8",
+            "price": 524.39,
+            "productId": "-NmlGt7S5wda9mXB3IF-",
+            "quantity": 1
+          },
+          {
+            "id": "0.958117203927365",
+            "name": "Mi TV Stick",
+            "price": 289.99,
+            "productId": "-NmlGPR4xEFBqP1WB3BX",
+            "quantity": 1
+          }
+        ],
+        "total": 4268.96
+      }
+    }
+  },
+  "products": {
+    "-NmlEeUYu_HkamAuoCmB": {
+      "description": "Fotografia profissional no seu bolso\r\nDescubra infinitas possibilidades para suas fotos com as 4 câmeras principais de sua equipe. Teste sua criatividade e jogue com iluminação, diferentes planos e efeitos para obter ótimos resultados.\r\n\r\nExperiência visual incrível\r\nAssista às suas séries e filmes favoritos com a melhor definição na sua tela AMOLED de 6.43\". Desfrute de cores brilhantes e detalhes precisos em todo o seu conteúdo.\r\n\r\nCapacidade e eficiência\r\nCom seu poderoso processador e memória RAM de 6 GB seu computador alcançará alto desempenho com alta velocidade de transmissão de conteúdos e executará vários aplicativos ao mesmo tempo, sem atrasos.\r\n\r\nDesbloqueio facial e de impressão digital\r\nMáxima segurança para que apenas você possa acessar o sua equipe. Você pode escolher entre o sensor de impressão digital para ativar seu telefone com um toque, ou o reconhecimento facial que permite desbloquear até 30% mais rápido.\r\n\r\nVida útil da bateria mais longa\r\nDesconecte-se! Com a super bateria de 5000 mAh você terá energia por muito mais tempo para jogar, assistir séries ou trabalhar sem recarregar.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/38/08/3808_smartphone-xiaomi-redmi-note-11s-128gb-c00333_z1_637812076709353239.jpg",
+      "name": "Redmi Note 11S",
+      "price": 1999.99
+    },
+    "-NmlFbdZRRL9MouGvNuN": {
+      "description": "   Impressionante tela de alta definição com 6,74'' polegadas e 90Hz\r\nExperiência visual envolvente com taxa de atualização de 90Hz que garante fluidez e suavidade. Ideal para usar apps, jogar e assistir vídeos com qualidade.\r\n\r\n   Câmera tripla traseira de 50MP com inteligência artificial\r\nCapture fotos incríveis e cheias de detalhes com até 50MP e selfies nítidas com a câmera frontal de 8MP. Fotos impressionantes tanto na frente quanto na traseira aprimoradas por IA.\r\n\r\n   Processador Octa-core MediaTek Helio G85\r\nAbra aplicativos, jogos e muito mais com velocidade, eficiência e qualidade. Ideal para usuários que buscam um celular ágil e fluido para o dia a dia.\r\n\r\n   Bateria que dura o dia todo com uma só carga\r\nCom 5000mAh de bateria e suporte para carregamento de 18W, o Redmi 13C acompanha cabo USB-C e carregador 10W na caixa, sendo um smartphone preparado para um dia intenso de uso.\r\n\r\nTudo isso com acesso à livros digitais que somente a Xiaomi oficial oferece.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/51/41/5141_smartphone-xiaomi-redmi-13c-8gb-256gb-c00385_z8_638367785689468768.jpg",
+      "name": "Redmi 13C",
+      "price": 1289.99
+    },
+    "-NmlGCe8z6KRXXwCjzsA": {
+      "description": "Braceletes exclusivos para Xiaomi Smart Band 8, facilmente removíveis oferecem ainda mais possibilidades de expressar seu estilo, com uma variedade de designs, materiais e tipos de acessórios.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/51/24/5124_bracelete-de-couro-para-xiaomi-smart-band-8-x00772_z1_638330746084520447.jpg",
+      "name": "Bracelete MiBand 8",
+      "price": 257.59
+    },
+    "-NmlGPR4xEFBqP1WB3BX": {
+      "description": "Vai viajar e não quer perder o último episódio da sua série favorita? Seu filho não quer perder as lives do youtube? Acesse os seus serviços de streaming e muito mais, de qualquer lugar com o Xiaomi TV Stick, seu dispositivo streaming media player portátil.\r\n\r\nEquipado com chromecast embutido, o Xiaomi TV Stick transmite de forma inteligente e com resolução 1080p, as suas fotos, vídeos, músicas e todo conteúdo que estiver no seu dispositivo, direto para a tv. Para garantir uma funcionalidade superior, o dispositivo é equipado com o android TV 9.0, um sistema operacional inteligente e prático que torna as suas horas de lazer com a família muito mais prazerosas.\r\n\r\nPensando no transporte e armazenamento fácil, o design discreto, compacto, disponível na cor preto fosco, possui apenas 92.4 x 30.2 x 15.2 mm de dimensões, cabe em qualquer mala, bolsa, mochila e até mesmo no seu bolso. Este produto funciona direto na entrada USB de televisões, dispensando o uso de fontes de energia, deixando mais discreto durante o uso.\r\n\r\nO Xiaomi TV Stick possui CPU Quad-core Cotex a53, GPU ARM Mali-450, memória RAM de 1GB, uma conexão HDMI e outra Micro USB, utilizado para alimentação de energia. Dessa forma, você assiste tudo com a melhor qualidade de desempenho e garante espaço de armazenamento para toneladas de conteúdo.\r\n\r\nAlém de oferecer uma experiência de áudio premium através do decodificador Dolby +DTS, o seu TV Stick é compatível com a maioria dos formatos de imagem e vídeos. Para iniciar as maratonas de conteúdo você só precisa conectá-lo à TV e, em apenas 3 passos de configuração, o seu TV Stick estará pronto para te entreter. Configure a Netflix e Prime Vídeo e acesse rapidamente através do controle com apenas um botão. Com a Play Store você pode escolher entre mais de 5.000 aplicativos e jogos disponíveis para baixar, instale seus aplicativos favoritos como Globoplay, HBO Go e usufrua dos melhores conteúdos.\r\n\r\nObtenha conexões estáveis com o bluetooth 4.2, pareie caixas de som para valorizar o áudio das suas séries e filmes ou joysticks para imergir nos jogos. Para controlar as funcionalidades do seu Xiaomi TV Stick e gerenciar os APPs com mais facilidade, adicionamos a assistente virtual do Google ao dispositivo. Para acioná-lo basta pressionar o botão do microfone do controle que acompanha o TV Stick. A assistente virtual do Google oferece suporte para a maioria dos dispositivos inteligentes smart home conectados, otimize sua vida e deixe a rotina diária mais confortável.\r\n\r\nAlém do controle remoto, o Xiaomi TV Stick acompanha um adaptador de energia e um manual do usuário.\r\n\r\nXiaomi TV Stick, transmissão inteligente, conteúdo na palma da sua mão.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/17/07/1707_mi-tv-stick-xiaomi-x523_z1_637382097032585232.jpg",
+      "name": "Mi TV Stick",
+      "price": 289.99
+    },
+    "-NmlGi_e8QJatN38fuS8": {
+      "description": "Atenda chamadas sem tirar o smartphone do bolso\r\nUtilizando o Bluetooth é possível atender chamadas direto do relógio.\r\n\r\n  SOS para emergências e acompanhamento de saúde\r\nAperta o botão lateral 3x para alertar um contato de emergência e sempre acompanhe sua frequência cardíaca, oxigenação no sangue e sono.\r\n\r\n  GPS e mais de 120 modos de treino \r\nPacote completo para o seu treino com resistência a água de até 50m e tela de 1,75'' para conferir seu progresso.\r\n\r\n  Alcance seus objetivos com até 12 dias de bateria\r\nBateria de longa duração para te acompanhar sempre.\r\n\r\n  Tudo isso com acesso à livros digitais que somente a Xiaomi oficial oferece.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/47/92/4792_smartwatch-xiaomi-redmi-watch-3-x00755_z6_638277063990005751.jpg",
+      "name": "Redmi Watch 3",
+      "price": 1471.99
+    },
+    "-NmlGt7S5wda9mXB3IF-": {
+      "description": "A Smartband mais completa para monitorar sua saúde e atividades físicas\r\n\r\n  Um treinador de corrida diretamente no seu pulso\r\n10 níveis de treino com diferentes intensidades de acordo com sua condição física e experiência atlética\r\n\r\n  Novo modo exclusivo de pontuação de vitalidade\r\nEntenda o impacto dos seus treinos à sua saúde, com uma pontuação de 0 a 100 no período de 7 dias. Quanto mais pontos mais saúde\r\n\r\n  Completo para acompanhar sua saúde\r\nAcompanhe seus sinais vitais, como batimentos cardíacos, oxigenação sanguínea, sono e até 150 modos de atividades\r\n\r\n  Nova tela 60Hz, mais bateria e carregamento 2x rápido\r\n1ª tela OLED de 1,62\" com 60Hz, proporcionando mais fluidez e conforto na visualização de informações com até 16 dias de bateria",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/51/05/5105_pulseira-inteligente-xiaomi-band-8-x00766_z3_638318384190830462.jpg",
+      "name": "MiBand 8",
+      "price": 524.39
+    },
+    "-NmlH1YJ27S0ziwRIwcM": {
+      "description": "Um novo conceito em áudio estéreo sem fio, estabilidade de conexão e design confortável está prestes a revolucionar a sua experiência com fones de ouvido. Com o Mi True Wireless Earbuds Basic 2 você ouve as suas músicas e faz ligações sem o incômodo de cabos que limitam os movimentos e causam desconfortos. Nós priorizamos a sua liberdade e a qualidade do som que você ouve em todos os momentos.\r\n\r\nEquipados com um processador com tecnologia Bluetooth 5.0, os Earbuds aumentam a estabilidade das conexões em ambientes internos e externos, oferecendo mais possibilidades de comunicação para a sua rotina de trabalho, treinos e lazer. O Mi True Wireless Eabuds Basic 2, funciona perfeitamente a até 10 metros de distância do dispositivo pareado para a sua total conveniência.\r\n\r\nEntre as funções mais pedidas e utilizadas pelos nossos Mi Fãs, está o Modo Single Ear, feito para você utilizar em ambientes movimentados que exigem a sua atenção. Quando apenas um dos Earbuds é utilizado, a conexão entre o Earbud ativo e seu smartphone será alternada automaticamente, dessa forma você não precisa parear novamente para poder ouvir sua playlist favorita ou receber uma ligação daquele amigo que você não vê há tempos.\r\n\r\nApós uma rápida configuração, os Earbuds se conectam automaticamente ao seu dispositivo sempre que quiser utilizá-los, basta tirá-los do case de carregamento. Vestir um Earbud é diferente de qualquer outro fone que já tenha experimentado. O design dos Earbuds foi pensado para se encaixar gentilmente em seus ouvidos e ao mesmo tempo se manterem fixos enquanto você se movimenta. Já o case de carregamento, além de caber na palma da sua mão é o dispositivo perfeito para manter os Earbuds seguros e sempre carregados.\r\n\r\nO Mi True Wireless Earbuds Basic 2 é tão leve que você esquece que está com eles, pois pesa apenas 4.1 g cada um. Para receber ligações, você só precisa tocar levemente no botão físico que compõe o design dos Earbuds. \r\n\r\nSe preferir, toque duas vezes no botão, ative o assistente de voz e mantenha as mãos livres para continuar se movimentando, sem interromper a sua atividade atual. Cheque a sua agenda, descubra novas rotas para o seu caminho com apenas um comando de voz e total comodidade. \r\n\r\nCom apenas uma carga, você utiliza os Earbuds por até 4 horas, se estiver com o case de carregamento, use por até 12 horas. Se o nível de bateria estiver baixo, o tempo de recarga total dos Earbuds é de apenas 1,5 horas e para recarregar totalmente o case, apenas 2 horas. \r\n\r\nMi True Wireless Earbuds Basic 2, o básico que todo mundo quer.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/40/60/4060_fone-de-ouvido-bluetooth-mi-true-wireless-earbuds-basic-2-x542_z1_638006737728535671.jpg",
+      "name": "Earbuds Basic 2",
+      "price": 196.99
+    },
+    "-NmlHA5B11EvsBHkI0MP": {
+      "description": "A base de carregamento para o seu Mi Watch, além de oferecer carregamento rápido e seguro, proporciona mais conforto e conveniência na hora de recarregar a bateria do seu smartwatch.\r\n\r\nO design redondo, traz acabamento fosco e contatos magnéticos que garantem a eficácia do carregamento. Feita com material sintético PC + ABS, a base possui tecnologia resistente ao calor que protege o seu Mi Watch contra aquecimentos desnecessários durante o carregamento. O cabo da base é maleável devido ao TPE, material que permite que você enrole o cabo sem se preocupar com quebras, aumentando a vida útil do produto.\r\n\r\nA base é compacta e pesa apenas 19g, tornando ainda mais fácil e prático o armazenamento em gavetas ou o transporte em bolsas e mochilas. Para iniciar o carregamento, você precisa apenas posicionar o corpo principal do seu Mi Watch na base e aguardar até que a carga se complete.\r\n\r\nUtilize uma fonte com voltagem de 5V e corrente de saída de 0,5A ou superior, para garantir um carregamento rápido, seguro e eficaz como você sempre quis.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/50/93/5093_base-de-carregamento-para-smartwatch-xiaomi-mi-watch-x00603_z1_638314071241871987.jpg",
+      "name": "Base para Mi Watch",
+      "price": 91.99
+    },
+    "-NmlHQSy5EbDoC-sPRQ2": {
+      "description": "Conectividade 5G para jogos on-line mais rápidos e suaves \r\nOs games competitivos mais exigentes sem problemas de lag ou travamentos. \r\n \r\n  Tela de alta velocidade e qualidade para melhor experiência de jogo \r\nAproveite gráficos incríveis e jogos mais fluidos com a tela AMOLED de 120Hz. \r\n \r\n  Desempenho poderoso com processador Qualcomm Snapdragon 695 \r\nProcessador octa-core para esquecer a lentidão e não passar raiva no seu jogo favorito. \r\n \r\n  Capacidade de memória e armazenamento interno para jogos e arquivos \r\nCom opções de armazenamento de 6GB + 128GB ou 8GB + 256GB, expansão de memória RAM em até 3GB, é possível instalar, jogar e armazenar arquivos sem se preocupar com falta de espaço. \r\n \r\n  Câmera tripla de alta resolução para registrar suas conquistas \r\n48MP para registrar tudo com cores vibrantes e efeitos incríveis. \r\n \r\n  Bateria de longa duração para jogar por mais tempo e carregador ultrarrápido 5000mAh de bateria para jogar sem se preocupar e carregador ultrarrápido de 33W na caixa.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/46/61/4661_smartphone-poco-x5-5g-8gb-256gb-c00365_z17_638246692650297850.jpg",
+      "name": "POCO X5",
+      "price": 2943.99
+    },
+    "-NmlHX0d_5fi7Kossrbv": {
+      "description": "Bateria duradoura, imagens e áudio impressionantes em um tablet elegante\r\n\r\n  Imagens vibrantes numa tela grande de 11'' e 90Hz\r\nResolução FHD+ para cores realistas e detalhes nítidos e velocidade de 90Hz para jogos competitivos.\r\n\r\n  4 alto-falantes para um som envolvente e poderoso\r\nTecnologia Dolby Atmos® traz suas músicas e filmes à vida como numa sala de cinema.\r\n\r\n  Curta mais tempo com uma bateria de ultra duração\r\nAté 14 horas de reprodução de vídeo contínua para você aproveitar viagens e maratonas de séries sem preocupações.\r\n\r\n  Pronto para todas as tarefas sem travamentos\r\nProcessador Snapdragon® 680 para mais velocidade em apps e jogos com expansão gratuita de 3GB de memória RAM, totalizando até 7GB para uma performance ainda mais poderosa.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/50/68/5068_tablet-redmi-pad-se-128gb-x00767_z1_638306561980308983.jpg",
+      "name": "Redmi Pad SE",
+      "price": 1563.99
+    },
+    "-NmlHvzHzia_H0vCc_Ay": {
+      "description": "Bateria de 5000mAh de longa duração | Câmera principal de 13MP + Câmera selfie de 5MP com IA | Processador octa-core Helio G25 | Tela grande de 6,53” com proteção para os olhos | Leitor de digital traseiro para desbloqueio e segurança | Alto-falante com volume aprimorado e alcance impressionante\r\n\r\nDescubra agora seis motivos para você escolher o Redmi 10A como o seu novo smartphone! Com a bateria de 5000mAh você nunca mais vai se preocupar em ficar sem energia. Ouça suas playlists por até 6 dias, maratone até 19 horas das suas séries e filmes favoritos, converse com a família ou amigos por até 32 horas de chamadas contínuas e navegue na web até se cansar.\r\nO processador octa-core Helio G25 alcança até 2,0GHz e consome pouca energia, garantindo mais horas para as suas gameplays sem travamentos e com a estabilidade que você precisa. A tela de 6,53” com brilho de 400 nits traz imagens nítidas para streaming, jogos, fotografias, leituras e todo o entretenimento que faz parte da sua vida com total riqueza de detalhes e cores que vão te impressionar. O modo de tela de luz solar, permite que você visualize o seu conteúdo mesmo contra luz intensa.\r\nCâmeras! A câmera principal de 13MP + 2MP de profundidade com HDR padrão e IA 5.0 é perfeita para fotos com nitidez e amplitude para registrar paisagens panorâmicas e cenários urbanos com otimização inteligente de 27 cenas para fazer jus a beleza de tudo o que você valoriza. Já a câmera frontal de 5MP, captura os seus melhores ângulos entregando Selfies perfeitas. Explore o modo retrato, caleidoscópio para vídeos curtos e divertidos, modo embelezamento e outras funções inteligentes que só melhoram as suas imagens.\r\nO Redmi 10A é equipado com um alto-falante que entrega mais volume, e isola ruídos externos que te incomodam, focando apenas na imersão do seu entretenimento.\r\nO design minimalista e leve, traz uma textura antiderrapante que combina cores elegantes e pegada perfeita para todos os momentos. Além da beleza, o Redmi 10A passou por testes rigorosos de qualidade e garante suporte contra quedas e desgastes causado pelo tempo e uso.\r\nViu? Agora é só pegar o seu Redmi 10A.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/38/81/3881_smartphone-xiaomi-redmi-10a-3gb-64gb-c00341_z5_637859559925327585.jpg",
+      "name": "Redmi 10A",
+      "price": 849.99
+    },
+    "-NmlI29dyFe_ZyrZX-NO": {
+      "description": "Desperte o poder da velocidade 5G com o Redmi Note 12 Pro - O seu futuro agora! \r\n\r\n  Velocidade de conexão surpreendente para não perder tempo \r\nCom o Redmi Note 12 Pro 5G, você poderá navegar na internet, assistir a vídeos em alta definição e jogar jogos online com rapidez e estabilidade. \r\n\r\n  Câmera tripla com até 50MP com qualidade profissional\r\nFotos nítidas e detalhadas, mesmo em condições de pouca luz. Capture e compartilhe de forma fácil cada momento com seus amigos e familiares. \r\n\r\n  A confiança de usar um Xiaomi ficou ainda mais forte \r\nNovo processador MediaTek Dimensity 1080 combinado ao exclusivo sistema MIUI da Xiaomi executa tarefas pesadas ou jogos intensos sem problemas de desempenho. \r\n\r\n  Nunca mais fique sem bateria no meio do dia \r\nCom uma bateria de 5000mAh de longa duração e carregador turbo de 67W o Redmi Note 12 Pro 5G permite que você fique conectado por mais tempo, sem se preocupar com a vida útil da bateria.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/46/95/4695_smartphone-xiaomi-redmi-note-12-pro-5g-256gb-c00363_z11_638249504074477347.jpg",
+      "name": "Redmi Note 12 Pro",
+      "price": 3403.99
+    },
+    "-NmlIMbTntSEaaWY3lzx": {
+      "description": "Cabo USB tipo C original Xiaomi com comprimento de 100cm, na cor branca. Acabamento emborrachado com conexões reforçadas de alta resistência. Ideal para carregamento rápido.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/24/56/2456_cabo-usb-para-tipo-c-100cm-x00565_z2_637501930689519608.png",
+      "name": "USB Tipo C 100cm",
+      "price": 73.59
+    },
+    "-NmlIUIEfZNB-Quba2Sk": {
+      "description": "Encaixe perfeito, proteção garantida para seu Xiaomi.\r\n\r\nA capa de proteção básica da Xiaomi, é a porta de entrada para aumentar a proteção do seu smartphone Xiaomi.\r\n\r\nFeita de silicone que, além da resistência e segurança, é extremamente confortável ao toque, a capa é fina e mantém o tamanho original do seu celular, proporcionando encaixe perfeito à mão, além de manter o peso normal do seu aparelho.\r\n\r\nA capa básica acompanha caixa específica e está disponível nas cores azul, cinza, preto, rosa e vermelho.\r\n\r\nInvista na proteção contra riscos e na absorção de impactos, aumente a vida útil do seu smartphone Xiaomi.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/19/31/1931_capa-protetora-de-silicone-smartphone-xiaomi-redmi-note-8-x449_m4_637363035997891054.jpg",
+      "name": "Case Redmi Note 8",
+      "price": 50.59
+    },
+    "-NmlI_NW5fsL42ajz2Xk": {
+      "description": "Dê ao seu smartphone, a proteção que ele merece. A película de vidro Xiaomi possui espessura diferenciada e acabamento lateral que acompanha o design da tela do seu \r\naparelho. Adere perfeitamente à tela, evitando bolhas e outras possíveis falhas de aplicação. A proteção contra riscos e impactos é extremamente eficaz e além disso, não altera a sensibilidade do touch, preservando a rapidez habitual do seu smartphone. \r\n\r\nA película é feita com vidro ultra resistente e possui alta transparência para valorizar ainda mais as suas configurações de tela.",
+      "imageUrl": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/45/78/4578_pelicula-de-vidro-full-cover-para-smartphone-xiaomi-13-lite-xi0735_z1_638169084098294420.png",
+      "name": "Película Xiaomi 13 Lite",
+      "price": 82.79
+    }
+  },
+  "userFavorites": {
+    "kDmVQfZ7ABM74npZ9Kuwona71sL2": {
+      "-Nm6kCWBEb0yflnTcUQz": false,
+      "-NmC1xUfTTFfPC6XWYaZ": false,
+      "-NmC247_g1YDNPPG31kq": false,
+      "-NmC2Rts5VO7oSdT5Hfv": false,
+      "-NmC2XJdg8e3e8_0mrVk": false,
+      "-NmlGt7S5wda9mXB3IF-": true,
+      "-NmlI29dyFe_ZyrZX-NO": true,
+      "-NmlIMbTntSEaaWY3lzx": true
+    }
+  }
+}
