@@ -1,10 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:google_maps_flutter/google_maps_flutter.dart';
+import 'package:great_places/screens/map_screen.dart';
 import 'package:location/location.dart';
 
 import '../utils/location_util.dart';
 
 class LocationInput extends StatefulWidget {
-  const LocationInput({super.key});
+  final Function onSelectPosition;
+
+  const LocationInput(this.onSelectPosition, {Key? key}) : super(key: key);
 
   @override
   State<LocationInput> createState() => _LocationInputState();
@@ -13,16 +17,43 @@ class LocationInput extends StatefulWidget {
 class _LocationInputState extends State<LocationInput> {
   String? _previewImageUrl;
 
-  Future<void> _getCurrentUserLocation() async {
-    final locData = await Location().getLocation();
+  Future<void> _showPreview(double lat, double lng) async {
     final staticMapImageUrl = await LocationUtil().generateLocationPreviewImage(
-      latitude: locData.latitude!,
-      longitude: locData.longitude!,
+      latitude: lat,
+      longitude: lng,
     );
 
     setState(() {
       _previewImageUrl = staticMapImageUrl;
     });
+  }
+
+  Future<void> _getCurrentUserLocation() async {
+    try {
+      final locData = await Location().getLocation();
+
+      _showPreview(locData.latitude!, locData.longitude!);
+      widget.onSelectPosition(LatLng(
+        locData.latitude!,
+        locData.longitude!,
+      ));
+    } catch (e) {
+      return;
+    }
+  }
+
+  Future<void> _selectOnMap() async {
+    final LatLng? selectedPosition = await Navigator.of(context).push(
+      MaterialPageRoute(
+        fullscreenDialog: true,
+        builder: (ctx) => const MapScreen(),
+      ),
+    );
+
+    if (selectedPosition == null) return;
+
+    _showPreview(selectedPosition.latitude, selectedPosition.longitude);
+    widget.onSelectPosition(selectedPosition);
   }
 
   @override
@@ -56,7 +87,7 @@ class _LocationInputState extends State<LocationInput> {
               label: const Text('Localização Atual'),
             ),
             TextButton.icon(
-              onPressed: () {},
+              onPressed: _selectOnMap,
               icon: const Icon(Icons.map),
               label: const Text('Selecione no Mapa'),
             ),
